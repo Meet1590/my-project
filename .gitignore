@@ -13,4 +13,5 @@ __pycache__/
 
 #Data (Large so no need)
 data/
+notebooks/artifacts
 
